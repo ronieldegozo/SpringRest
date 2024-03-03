@@ -1,4 +1,4 @@
-package com.rougeniel.demo.rest;
+package com.rougeniel.demo.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;
